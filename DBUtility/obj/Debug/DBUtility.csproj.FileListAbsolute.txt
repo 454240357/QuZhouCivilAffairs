@@ -1,0 +1,8 @@
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\bin\Debug\DBUtility.dll.config
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\bin\Debug\DBUtility.dll
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\bin\Debug\DBUtility.pdb
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\bin\Debug\IBatisNet.Common.dll
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\bin\Debug\MySql.Data.dll
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\obj\Debug\DBUtility.dll
+D:\WorkSpace\QuZhouCivilAffairs\DBUtility\obj\Debug\DBUtility.pdb

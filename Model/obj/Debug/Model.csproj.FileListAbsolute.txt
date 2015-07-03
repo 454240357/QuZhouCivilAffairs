@@ -1,0 +1,5 @@
+D:\WorkSpace\QuZhouCivilAffairs\Model\bin\Debug\Model.dll.config
+D:\WorkSpace\QuZhouCivilAffairs\Model\bin\Debug\Model.dll
+D:\WorkSpace\QuZhouCivilAffairs\Model\bin\Debug\Model.pdb
+D:\WorkSpace\QuZhouCivilAffairs\Model\obj\Debug\Model.dll
+D:\WorkSpace\QuZhouCivilAffairs\Model\obj\Debug\Model.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="quzhoucivilaffairsModelStoreContainer" CdmEntityContainer="quzhoucivilaffairsEntities">
+    <EntitySetMapping Name="cms_content">
+      <EntityTypeMapping TypeName="quzhoucivilaffairsModel.cms_content">
+        <MappingFragment StoreEntitySet="cms_content">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="author" ColumnName="author" />
+          <ScalarProperty Name="cid" ColumnName="cid" />
+          <ScalarProperty Name="columnId" ColumnName="columnId" />
+          <ScalarProperty Name="pics" ColumnName="pics" />
+          <ScalarProperty Name="published" ColumnName="published" />
+          <ScalarProperty Name="source" ColumnName="source" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="summary" ColumnName="summary" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="top" ColumnName="top" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="column">
+      <EntityTypeMapping TypeName="quzhoucivilaffairsModel.column">
+        <MappingFragment StoreEntitySet="column">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="alias" ColumnName="alias" />
+          <ScalarProperty Name="desc" ColumnName="desc" />
+          <ScalarProperty Name="pid" ColumnName="pid" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="prop" ColumnName="prop" />
+          <ScalarProperty Name="remark" ColumnName="remark" />
+          <ScalarProperty Name="sid" ColumnName="sid" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

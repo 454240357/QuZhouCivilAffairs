@@ -1,0 +1,5 @@
+D:\WorkSpace\QuZhouCivilAffairs\DataSyncService\bin\Debug\DataSyncService.dll.config
+D:\WorkSpace\QuZhouCivilAffairs\DataSyncService\bin\Debug\DataSyncService.dll
+D:\WorkSpace\QuZhouCivilAffairs\DataSyncService\bin\Debug\DataSyncService.pdb
+D:\WorkSpace\QuZhouCivilAffairs\DataSyncService\obj\Debug\DataSyncService.dll
+D:\WorkSpace\QuZhouCivilAffairs\DataSyncService\obj\Debug\DataSyncService.pdb
